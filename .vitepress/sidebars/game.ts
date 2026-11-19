@@ -16,6 +16,18 @@ export default [
         text: "Mengatur Asset 2D dalam Game",
         link: "/miniclass/game/2026/mengatur-asset-2d-dalam-game/M-3-mengatur-asset-2d-dalam-game.md",
       },
+      {
+        text: "Role Programmer — Batas, Cabang, Demo",
+        link: "/miniclass/game/programmer/",
+      },
+      {
+        text: "Minggu 2 — Interface Unity dan OOP UI",
+        link: "/miniclass/game/minggu-2/",
+      },
+      {
+        text: "Game Ketik — MonkeyType Versi Unity",
+        link: "/miniclass/game/typing-game/",
+      },
     ],
   },
   {
